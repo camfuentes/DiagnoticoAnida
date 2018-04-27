@@ -1,0 +1,920 @@
+
+
+Index              : 3215505
+EntryType          : Error
+InstanceId         : 3221499633
+Message            : An internal transport certificate will expire soon. 
+                     Thumbprint:5413D3393B8E7872809BFB8A4D8CE6915D8E7B8C, 
+                     expires: 1/17/2018 12:00:00 PM
+Category           : TransportService
+CategoryNumber     : 12
+ReplacementStrings : {5413D3393B8E7872809BFB8A4D8CE6915D8E7B8C, 1/17/2018 
+                     12:00:00 PM}
+Source             : MSExchangeTransport
+TimeGenerated      : 11/15/2017 4:14:28 PM
+TimeWritten        : 11/15/2017 4:14:28 PM
+UserName           : 
+
+Index              : 3215504
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:14:26 PM
+TimeWritten        : 11/15/2017 4:14:26 PM
+UserName           : 
+
+Index              : 3215489
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:13:29 PM
+TimeWritten        : 11/15/2017 4:13:29 PM
+UserName           : 
+
+Index              : 3215488
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:13:26 PM
+TimeWritten        : 11/15/2017 4:13:26 PM
+UserName           : 
+
+Index              : 3215487
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:13:24 PM
+TimeWritten        : 11/15/2017 4:13:24 PM
+UserName           : 
+
+Index              : 3215486
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:13:24 PM
+TimeWritten        : 11/15/2017 4:13:24 PM
+UserName           : 
+
+Index              : 3215470
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:12:23 PM
+TimeWritten        : 11/15/2017 4:12:23 PM
+UserName           : 
+
+Index              : 3215458
+EntryType          : Warning
+InstanceId         : 2147746801
+Message            : The description for Event ID '-2147220495' in Source 
+                     'MSExchangeFastSearch' cannot be found.  The local 
+                     computer may not have the necessary registry information 
+                     or message DLL files to display the message, or you may 
+                     not have permission to access them.  The following 
+                     information is part of the event:'Mailbox Database 
+                     2061654708', 'Microsoft.Exchange.Search.Core.Abstraction.O
+                     perationFailedException: The component operation has 
+                     failed. ---> Microsoft.Exchange.Search.Core.Abstraction.Co
+                     mponentFailedPermanentException: Failed to read 
+                     notifications, MDB: d00b751d-0d50-41c1-ae08-d41bf28b2b08. 
+                     ---> Microsoft.Mapi.MapiExceptionMdbOffline: 
+                     MapiExceptionMdbOffline: Unable to read events. 
+                     (hr=0x80004005, ec=1142)
+                     Diagnostic context:
+                         Lid: 49384  
+                         Lid: 51176   StoreEc: 0x476     
+                         Lid: 40680   StoreEc: 0x476     
+                         Lid: 43980  
+                         Lid: 16354   StoreEc: 0x476     
+                         Lid: 38985   StoreEc: 0x476     
+                         Lid: 20098  
+                         Lid: 20585   StoreEc: 0x476     
+                        at Microsoft.Mapi.MapiExceptionHelper.InternalThrowIfEr
+                     rorOrWarning(String message, Int32 hresult, Boolean 
+                     allowWarnings, Int32 ec, DiagnosticContext diagCtx, 
+                     Exception innerException)
+                        at 
+                     Microsoft.Mapi.MapiExceptionHelper.ThrowIfError(String 
+                     message, Int32 hresult, IExInterface iUnknown, Exception 
+                     innerException)
+                        at Microsoft.Mapi.MapiEventManager.ReadEvents(Int64 
+                     startCounter, Int32 eventCountWanted, Int32 
+                     eventCountToCheck, Restriction filter, ReadEventsFlags 
+                     flags, Boolean includeSid, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.<>c__DisplayClass3.<ReadEvents>b__1()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass4`1.<TranslateMapiExceptionsWithRetryAndReturnValue>b_
+                     _3()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass7.<TranslateMapiExceptionsWithRetry>b__6()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetry(IDiagnosticsSession tracer, 
+                     LocalizedString errorString, Action mapiCall, Action 
+                     reconnectAction, MdbHealthTracker mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetryAndReturnValue[TReturnValue](IDiagnosti
+                     csSession tracer, LocalizedString errorString, Func`1 
+                     mapiCall, Action reconnectAction, MdbHealthTracker 
+                     mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadEvents(Int64 startCounter, Int32 eventCountWanted, 
+                     ReadEventsFlags flags, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadFirstEventCounter()
+                        at Microsoft.Exchange.Search.Engine.NotificationsEventS
+                     ourceInfo..ctor(IWatermarkStorage watermarkStorage, 
+                     INotificationsEventSource eventSource, 
+                     IDiagnosticsSession diagnosticsSession, MdbInfo mdbInfo)
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.DetermineFeederStateAndStartFeeders()
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.InternalExecutionStart()
+                        at Microsoft.Exchange.Search.Core.Common.Executable.Int
+                     ernalExecutionStart(Object state)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Core.Common.Executable.End
+                     Execute(IAsyncResult asyncResult)
+                        at Microsoft.Exchange.Search.Engine.SyncRootController.
+                     ExecuteComplete(IAsyncResult asyncResult)'
+Category           : (1)
+CategoryNumber     : 1
+ReplacementStrings : {Mailbox Database 2061654708, Microsoft.Exchange.Search.Co
+                     re.Abstraction.OperationFailedException: The component 
+                     operation has failed. ---> Microsoft.Exchange.Search.Core.
+                     Abstraction.ComponentFailedPermanentException: Failed to 
+                     read notifications, MDB: 
+                     d00b751d-0d50-41c1-ae08-d41bf28b2b08. ---> 
+                     Microsoft.Mapi.MapiExceptionMdbOffline: 
+                     MapiExceptionMdbOffline: Unable to read events. 
+                     (hr=0x80004005, ec=1142)
+                     Diagnostic context:
+                         Lid: 49384  
+                         Lid: 51176   StoreEc: 0x476     
+                         Lid: 40680   StoreEc: 0x476     
+                         Lid: 43980  
+                         Lid: 16354   StoreEc: 0x476     
+                         Lid: 38985   StoreEc: 0x476     
+                         Lid: 20098  
+                         Lid: 20585   StoreEc: 0x476     
+                        at Microsoft.Mapi.MapiExceptionHelper.InternalThrowIfEr
+                     rorOrWarning(String message, Int32 hresult, Boolean 
+                     allowWarnings, Int32 ec, DiagnosticContext diagCtx, 
+                     Exception innerException)
+                        at 
+                     Microsoft.Mapi.MapiExceptionHelper.ThrowIfError(String 
+                     message, Int32 hresult, IExInterface iUnknown, Exception 
+                     innerException)
+                        at Microsoft.Mapi.MapiEventManager.ReadEvents(Int64 
+                     startCounter, Int32 eventCountWanted, Int32 
+                     eventCountToCheck, Restriction filter, ReadEventsFlags 
+                     flags, Boolean includeSid, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.<>c__DisplayClass3.<ReadEvents>b__1()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass4`1.<TranslateMapiExceptionsWithRetryAndReturnValue>b_
+                     _3()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass7.<TranslateMapiExceptionsWithRetry>b__6()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetry(IDiagnosticsSession tracer, 
+                     LocalizedString errorString, Action mapiCall, Action 
+                     reconnectAction, MdbHealthTracker mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetryAndReturnValue[TReturnValue](IDiagnosti
+                     csSession tracer, LocalizedString errorString, Func`1 
+                     mapiCall, Action reconnectAction, MdbHealthTracker 
+                     mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadEvents(Int64 startCounter, Int32 eventCountWanted, 
+                     ReadEventsFlags flags, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadFirstEventCounter()
+                        at Microsoft.Exchange.Search.Engine.NotificationsEventS
+                     ourceInfo..ctor(IWatermarkStorage watermarkStorage, 
+                     INotificationsEventSource eventSource, 
+                     IDiagnosticsSession diagnosticsSession, MdbInfo mdbInfo)
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.DetermineFeederStateAndStartFeeders()
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.InternalExecutionStart()
+                        at Microsoft.Exchange.Search.Core.Common.Executable.Int
+                     ernalExecutionStart(Object state)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Core.Common.Executable.End
+                     Execute(IAsyncResult asyncResult)
+                        at Microsoft.Exchange.Search.Engine.SyncRootController.
+                     ExecuteComplete(IAsyncResult asyncResult)}
+Source             : MSExchangeFastSearch
+TimeGenerated      : 11/15/2017 4:11:50 PM
+TimeWritten        : 11/15/2017 4:11:50 PM
+UserName           : 
+
+Index              : 3215448
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:11:19 PM
+TimeWritten        : 11/15/2017 4:11:19 PM
+UserName           : 
+
+Index              : 3215418
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:10:16 PM
+TimeWritten        : 11/15/2017 4:10:16 PM
+UserName           : 
+
+Index              : 3215413
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:09:29 PM
+TimeWritten        : 11/15/2017 4:09:29 PM
+UserName           : 
+
+Index              : 3215412
+EntryType          : Error
+InstanceId         : 3221491754
+Message            : Some databases on server PRO-EXCH-01 have insufficient 
+                     data redundancy.
+                     
+                     Databases:
+                     
+                     Mailbox Database 2061654708
+                     
+                     Mailbox Database 2061654708 - There were database 
+                     redundancy check failures for database 'Mailbox Database 
+                     2061654708' that may be lowering its redundancy and 
+                     putting the database at risk of data loss. Redundancy 
+                     Count: 1. Expected Redundancy Count: 2. Detailed 
+                     error(s): 
+                     
+                     
+                             PRO-EXCH-01:
+                             Database 'Mailbox Database 2061654708' does not 
+                     have enough copies configured to meet the validation 
+                     criteria.
+                             
+                     
+                     ==========================================================
+                     ==================
+                      Database Copy Health Transition Information (sorted by 
+                     most recently Active)
+                     ==========================================================
+                     ==================
+                     
+                     PRO-EXCH-01.duoc.cl:
+                     LastCopyStatusTransitionTime: 01/01/0001 00:00:00
+                     CopyFoundInAD:	CurrentState: Success;	
+                     LastActiveTransition: 2017-06-28T21:21:11.5324286Z;	
+                     LastInactiveTransition: 0001-01-01T00:00:00.0000000
+                     CopyStatusActive:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-09-29T13:19:10.7450816Z
+                     CopyStatusMounted:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-10-10T12:59:07.7841408Z;	
+                     LastInactiveTransition: 2017-10-10T16:32:09.0247462Z
+                     CopyStatusHealthy:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:28:44.8389087Z
+                     CopyStatusFailed:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-13T01:08:44.8929140Z;	
+                     LastInactiveTransition: 2017-09-13T01:18:44.9963544Z
+                     CopyStatusSeeding:	CurrentState: Failure;	
+                     LastActiveTransition: 0001-01-01T00:00:00.0000000;	
+                     LastInactiveTransition: 2017-06-28T21:22:11.5338760Z
+                     CopyStatusRetrieved:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:41:44.8519495Z;	
+                     LastInactiveTransition: 2017-10-04T18:40:44.8544318Z
+                     CopyIsRedundant:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-30T19:01:07.5118914Z;	
+                     LastInactiveTransition: 2017-10-30T19:00:07.5128506Z
+                     CopyIsAvailable:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-30T19:01:07.5118914Z;	
+                     LastInactiveTransition: 2017-10-30T19:00:07.5128506Z
+                     
+                     PRO-EXCH-04.duoc.cl:
+                     LastCopyStatusTransitionTime: 10/06/2017 12:26:40
+                     CopyFoundInAD:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-06-10T18:41:45.5814908Z;	
+                     LastInactiveTransition: 2017-10-06T12:28:28.5252222Z
+                     CopyStatusActive:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:29:44.8379822Z
+                     CopyStatusMounted:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:28:44.8389087Z
+                     CopyStatusHealthy:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:29:44.8379822Z;	
+                     LastInactiveTransition: 2017-09-29T13:19:10.7450816Z
+                     CopyStatusFailed:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-22T14:21:09.8522790Z;	
+                     LastInactiveTransition: 2017-09-22T14:25:09.8483869Z
+                     CopyStatusSeeding:	CurrentState: Failure;	
+                     LastActiveTransition: 0001-01-01T00:00:00.0000000;	
+                     LastInactiveTransition: 2017-06-10T18:41:45.6554868Z
+                     CopyStatusRetrieved:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     CopyIsRedundant:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     CopyIsAvailable:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:29:44.8379822Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     
+                     
+                     
+                     
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01, Mailbox Database 2061654708
+                     
+                     Mailbox Database 2061654708 - There were database 
+                     redundancy check failures for database 'Mailbox Database 
+                     2061654708' that may be lowering its redundancy and 
+                     putting the database at risk of data loss. Redundancy 
+                     Count: 1. Expected Redundancy Count: 2. Detailed 
+                     error(s): 
+                     
+                     
+                             PRO-EXCH-01:
+                             Database 'Mailbox Database 2061654708' does not 
+                     have enough copies configured to meet the validation 
+                     criteria.
+                             
+                     
+                     ==========================================================
+                     ==================
+                      Database Copy Health Transition Information (sorted by 
+                     most recently Active)
+                     ==========================================================
+                     ==================
+                     
+                     PRO-EXCH-01.duoc.cl:
+                     LastCopyStatusTransitionTime: 01/01/0001 00:00:00
+                     CopyFoundInAD:	CurrentState: Success;	
+                     LastActiveTransition: 2017-06-28T21:21:11.5324286Z;	
+                     LastInactiveTransition: 0001-01-01T00:00:00.0000000
+                     CopyStatusActive:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-09-29T13:19:10.7450816Z
+                     CopyStatusMounted:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-10-10T12:59:07.7841408Z;	
+                     LastInactiveTransition: 2017-10-10T16:32:09.0247462Z
+                     CopyStatusHealthy:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:28:44.8389087Z
+                     CopyStatusFailed:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-13T01:08:44.8929140Z;	
+                     LastInactiveTransition: 2017-09-13T01:18:44.9963544Z
+                     CopyStatusSeeding:	CurrentState: Failure;	
+                     LastActiveTransition: 0001-01-01T00:00:00.0000000;	
+                     LastInactiveTransition: 2017-06-28T21:22:11.5338760Z
+                     CopyStatusRetrieved:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:41:44.8519495Z;	
+                     LastInactiveTransition: 2017-10-04T18:40:44.8544318Z
+                     CopyIsRedundant:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-30T19:01:07.5118914Z;	
+                     LastInactiveTransition: 2017-10-30T19:00:07.5128506Z
+                     CopyIsAvailable:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-30T19:01:07.5118914Z;	
+                     LastInactiveTransition: 2017-10-30T19:00:07.5128506Z
+                     
+                     PRO-EXCH-04.duoc.cl:
+                     LastCopyStatusTransitionTime: 10/06/2017 12:26:40
+                     CopyFoundInAD:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-06-10T18:41:45.5814908Z;	
+                     LastInactiveTransition: 2017-10-06T12:28:28.5252222Z
+                     CopyStatusActive:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:29:44.8379822Z
+                     CopyStatusMounted:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-29T13:19:10.7450816Z;	
+                     LastInactiveTransition: 2017-10-04T18:28:44.8389087Z
+                     CopyStatusHealthy:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:29:44.8379822Z;	
+                     LastInactiveTransition: 2017-09-29T13:19:10.7450816Z
+                     CopyStatusFailed:	CurrentState: Failure;	
+                     LastActiveTransition: 2017-09-22T14:21:09.8522790Z;	
+                     LastInactiveTransition: 2017-09-22T14:25:09.8483869Z
+                     CopyStatusSeeding:	CurrentState: Failure;	
+                     LastActiveTransition: 0001-01-01T00:00:00.0000000;	
+                     LastInactiveTransition: 2017-06-10T18:41:45.6554868Z
+                     CopyStatusRetrieved:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     CopyIsRedundant:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:28:44.8389087Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     CopyIsAvailable:	CurrentState: Success;	
+                     LastActiveTransition: 2017-10-04T18:29:44.8379822Z;	
+                     LastInactiveTransition: 2017-10-04T18:27:44.8411025Z
+                     
+                     
+                     }
+Source             : MSExchangeRepl
+TimeGenerated      : 11/15/2017 4:09:27 PM
+TimeWritten        : 11/15/2017 4:09:27 PM
+UserName           : 
+
+Index              : 3215411
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:09:24 PM
+TimeWritten        : 11/15/2017 4:09:24 PM
+UserName           : 
+
+Index              : 3215410
+EntryType          : Warning
+InstanceId         : 2147746815
+Message            : Exchange ActiveSync tried to access a mailbox on Mailbox 
+                     server "PRO-EXCH-01.duoc.cl". It could not access the 
+                     mailbox because the Mailbox server is offline.
+Category           : Requests
+CategoryNumber     : 1
+ReplacementStrings : {PRO-EXCH-01.duoc.cl}
+Source             : MSExchange ActiveSync
+TimeGenerated      : 11/15/2017 4:09:24 PM
+TimeWritten        : 11/15/2017 4:09:24 PM
+UserName           : 
+
+Index              : 3215407
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:09:12 PM
+TimeWritten        : 11/15/2017 4:09:12 PM
+UserName           : 
+
+Index              : 3215392
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:08:10 PM
+TimeWritten        : 11/15/2017 4:08:10 PM
+UserName           : 
+
+Index              : 3215385
+EntryType          : Error
+InstanceId         : 3221229599
+Message            : Process powershell.exe (PID=37236). Component: Microsoft.E
+                     xchange.Data.Directory.ConfigurationSettingsADNotification
+                     Exception: Error running AD operation. ---> Microsoft.Exch
+                     ange.Data.Directory.ADTopologyUnexpectedException: 
+                     Unexpected error when calling the Microsoft Exchange 
+                     Active Directory Topology service on server 
+                     'TopologyClientTcpEndpoint (localhost)'. Error details: 
+                     Access is denied.. ---> System.ServiceModel.Security.Secur
+                     ityAccessDeniedException: Access is denied.
+                     
+                     Server stack trace: 
+                        at System.ServiceModel.Channels.ServiceChannel.ThrowIfF
+                     aultUnderstood(Message reply, MessageFault fault, String 
+                     action, MessageVersion version, FaultConverter 
+                     faultConverter)
+                        at System.ServiceModel.Channels.ServiceChannel.HandleRe
+                     ply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+                        at 
+                     System.ServiceModel.Channels.ServiceChannel.Call(String 
+                     action, Boolean oneway, ProxyOperationRuntime operation, 
+                     Object[] ins, Object[] outs, TimeSpan timeout)
+                        at System.ServiceModel.Channels.ServiceChannelProxy.Inv
+                     okeService(IMethodCallMessage methodCall, 
+                     ProxyOperationRuntime operation)
+                        at System.ServiceModel.Channels.ServiceChannelProxy.Inv
+                     oke(IMessage message)
+                     
+                     Exception rethrown at [0]: 
+                        at System.Runtime.Remoting.Proxies.RealProxy.HandleRetu
+                     rnMessage(IMessage reqMsg, IMessage retMsg)
+                        at System.Runtime.Remoting.Proxies.RealProxy.PrivateInv
+                     oke(MessageData& msgData, Int32 type)
+                        at Microsoft.Exchange.Data.Directory.TopologyDiscovery.
+                     ITopologyClient.GetServersForRole(String partitionFqdn, 
+                     List`1 currentlyUsedServers, ADServerRole role, Int32 
+                     serversRequested, Boolean forestWideAffinityRequested)
+                        at Microsoft.Exchange.Data.Directory.ServiceTopologyPro
+                     vider.<>c__DisplayClass13.<InternalServiceProviderGetServe
+                     rsForRole>b__12(IPooledServiceProxy`1 proxy)
+                        at Microsoft.Exchange.Net.ServiceProxyPool`1.TryCallSer
+                     viceWithRetry(Action`1 action, String debugMessage, 
+                     WCFConnectionStateTuple proxyToUse, Int32 
+                     numberOfRetries, Boolean doNotReturnProxyOnSuccess, 
+                     Exception& exception)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Data.Directory.ServiceTopologyPro
+                     vider.GetConfigDCInfo(String partitionFqdn, Boolean 
+                     throwOnFailure)
+                        at Microsoft.Exchange.Data.Directory.TopologyProvider.P
+                     opulateConfigNamingContexts(String partitionFqdn)
+                        at Microsoft.Exchange.Data.Directory.TopologyProvider.G
+                     etConfigurationNamingContext(String partitionFqdn)
+                        at Microsoft.Exchange.Data.Directory.SystemConfiguratio
+                     n.ADSystemConfigurationSession.GetRootOrgContainer(String 
+                     partitionFqdn, String domainController, NetworkCredential 
+                     credential)
+                        at Microsoft.Exchange.Data.Directory.SystemConfiguratio
+                     n.ConfigurationSettings.ADConfigDriver.<>c__DisplayClass2.
+                     <LoadSettings>b__0()
+                        at Microsoft.Exchange.Data.Directory.ADNotificationAdap
+                     ter.RunADOperation(ADOperation adOperation, Int32 
+                     retryCount)
+                        at Microsoft.Exchange.Data.Directory.ADNotificationAdap
+                     ter.TryRunADOperation(ADOperation adOperation, Int32 
+                     retryCount)
+                        --- End of inner exception stack trace ---. Unable to 
+                     load application settings. Exception: '%4'
+Category           : General
+CategoryNumber     : 1
+ReplacementStrings : {powershell.exe, 37236, Microsoft.Exchange.Data.Directory.
+                     ConfigurationSettingsADNotificationException: Error 
+                     running AD operation. ---> Microsoft.Exchange.Data.Directo
+                     ry.ADTopologyUnexpectedException: Unexpected error when 
+                     calling the Microsoft Exchange Active Directory Topology 
+                     service on server 'TopologyClientTcpEndpoint 
+                     (localhost)'. Error details: Access is denied.. ---> Syste
+                     m.ServiceModel.Security.SecurityAccessDeniedException: 
+                     Access is denied.
+                     
+                     Server stack trace: 
+                        at System.ServiceModel.Channels.ServiceChannel.ThrowIfF
+                     aultUnderstood(Message reply, MessageFault fault, String 
+                     action, MessageVersion version, FaultConverter 
+                     faultConverter)
+                        at System.ServiceModel.Channels.ServiceChannel.HandleRe
+                     ply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+                        at 
+                     System.ServiceModel.Channels.ServiceChannel.Call(String 
+                     action, Boolean oneway, ProxyOperationRuntime operation, 
+                     Object[] ins, Object[] outs, TimeSpan timeout)
+                        at System.ServiceModel.Channels.ServiceChannelProxy.Inv
+                     okeService(IMethodCallMessage methodCall, 
+                     ProxyOperationRuntime operation)
+                        at System.ServiceModel.Channels.ServiceChannelProxy.Inv
+                     oke(IMessage message)
+                     
+                     Exception rethrown at [0]: 
+                        at System.Runtime.Remoting.Proxies.RealProxy.HandleRetu
+                     rnMessage(IMessage reqMsg, IMessage retMsg)
+                        at System.Runtime.Remoting.Proxies.RealProxy.PrivateInv
+                     oke(MessageData& msgData, Int32 type)
+                        at Microsoft.Exchange.Data.Directory.TopologyDiscovery.
+                     ITopologyClient.GetServersForRole(String partitionFqdn, 
+                     List`1 currentlyUsedServers, ADServerRole role, Int32 
+                     serversRequested, Boolean forestWideAffinityRequested)
+                        at Microsoft.Exchange.Data.Directory.ServiceTopologyPro
+                     vider.<>c__DisplayClass13.<InternalServiceProviderGetServe
+                     rsForRole>b__12(IPooledServiceProxy`1 proxy)
+                        at Microsoft.Exchange.Net.ServiceProxyPool`1.TryCallSer
+                     viceWithRetry(Action`1 action, String debugMessage, 
+                     WCFConnectionStateTuple proxyToUse, Int32 
+                     numberOfRetries, Boolean doNotReturnProxyOnSuccess, 
+                     Exception& exception)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Data.Directory.ServiceTopologyPro
+                     vider.GetConfigDCInfo(String partitionFqdn, Boolean 
+                     throwOnFailure)
+                        at Microsoft.Exchange.Data.Directory.TopologyProvider.P
+                     opulateConfigNamingContexts(String partitionFqdn)
+                        at Microsoft.Exchange.Data.Directory.TopologyProvider.G
+                     etConfigurationNamingContext(String partitionFqdn)
+                        at Microsoft.Exchange.Data.Directory.SystemConfiguratio
+                     n.ADSystemConfigurationSession.GetRootOrgContainer(String 
+                     partitionFqdn, String domainController, NetworkCredential 
+                     credential)
+                        at Microsoft.Exchange.Data.Directory.SystemConfiguratio
+                     n.ConfigurationSettings.ADConfigDriver.<>c__DisplayClass2.
+                     <LoadSettings>b__0()
+                        at Microsoft.Exchange.Data.Directory.ADNotificationAdap
+                     ter.RunADOperation(ADOperation adOperation, Int32 
+                     retryCount)
+                        at Microsoft.Exchange.Data.Directory.ADNotificationAdap
+                     ter.TryRunADOperation(ADOperation adOperation, Int32 
+                     retryCount)
+                        --- End of inner exception stack trace ---}
+Source             : MSExchange ADAccess
+TimeGenerated      : 11/15/2017 4:07:29 PM
+TimeWritten        : 11/15/2017 4:07:29 PM
+UserName           : 
+
+Index              : 3215380
+EntryType          : Warning
+InstanceId         : 2147746798
+Message            : The Microsoft Exchange Mailbox Replication service was 
+                     unable to process jobs in a mailbox database.
+                     Database: Missing database 
+                     (42baef85-a665-475c-bf0e-48fe11a38d20)
+                     Error: Database '42baef85-a665-475c-bf0e-48fe11a38d20' 
+                     doesn't exist.
+Category           : Service
+CategoryNumber     : 1
+ReplacementStrings : {Missing database (42baef85-a665-475c-bf0e-48fe11a38d20), 
+                     Database '42baef85-a665-475c-bf0e-48fe11a38d20' doesn't 
+                     exist.}
+Source             : MSExchange Mailbox Replication
+TimeGenerated      : 11/15/2017 4:07:10 PM
+TimeWritten        : 11/15/2017 4:07:10 PM
+UserName           : 
+
+Index              : 3215371
+EntryType          : Error
+InstanceId         : 3221227478
+Message            : The description for Event ID '-1073739818' in Source 
+                     'PerfNet' cannot be found.  The local computer may not 
+                     have the necessary registry information or message DLL 
+                     files to display the message, or you may not have 
+                     permission to access them.  The following information is 
+                     part of the event:
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {}
+Source             : PerfNet
+TimeGenerated      : 11/15/2017 4:06:36 PM
+TimeWritten        : 11/15/2017 4:06:36 PM
+UserName           : 
+
+Index              : 3215358
+EntryType          : Warning
+InstanceId         : 2147746801
+Message            : The description for Event ID '-2147220495' in Source 
+                     'MSExchangeFastSearch' cannot be found.  The local 
+                     computer may not have the necessary registry information 
+                     or message DLL files to display the message, or you may 
+                     not have permission to access them.  The following 
+                     information is part of the event:'Mailbox Database 
+                     2061654708', 'Microsoft.Exchange.Search.Core.Abstraction.O
+                     perationFailedException: The component operation has 
+                     failed. ---> Microsoft.Exchange.Search.Core.Abstraction.Co
+                     mponentFailedPermanentException: Failed to read 
+                     notifications, MDB: d00b751d-0d50-41c1-ae08-d41bf28b2b08. 
+                     ---> Microsoft.Mapi.MapiExceptionMdbOffline: 
+                     MapiExceptionMdbOffline: Unable to read events. 
+                     (hr=0x80004005, ec=1142)
+                     Diagnostic context:
+                         Lid: 49384  
+                         Lid: 51176   StoreEc: 0x476     
+                         Lid: 40680   StoreEc: 0x476     
+                         Lid: 43980  
+                         Lid: 16354   StoreEc: 0x476     
+                         Lid: 38985   StoreEc: 0x476     
+                         Lid: 20098  
+                         Lid: 20585   StoreEc: 0x476     
+                        at Microsoft.Mapi.MapiExceptionHelper.InternalThrowIfEr
+                     rorOrWarning(String message, Int32 hresult, Boolean 
+                     allowWarnings, Int32 ec, DiagnosticContext diagCtx, 
+                     Exception innerException)
+                        at 
+                     Microsoft.Mapi.MapiExceptionHelper.ThrowIfError(String 
+                     message, Int32 hresult, IExInterface iUnknown, Exception 
+                     innerException)
+                        at Microsoft.Mapi.MapiEventManager.ReadEvents(Int64 
+                     startCounter, Int32 eventCountWanted, Int32 
+                     eventCountToCheck, Restriction filter, ReadEventsFlags 
+                     flags, Boolean includeSid, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.<>c__DisplayClass3.<ReadEvents>b__1()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass4`1.<TranslateMapiExceptionsWithRetryAndReturnValue>b_
+                     _3()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass7.<TranslateMapiExceptionsWithRetry>b__6()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetry(IDiagnosticsSession tracer, 
+                     LocalizedString errorString, Action mapiCall, Action 
+                     reconnectAction, MdbHealthTracker mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetryAndReturnValue[TReturnValue](IDiagnosti
+                     csSession tracer, LocalizedString errorString, Func`1 
+                     mapiCall, Action reconnectAction, MdbHealthTracker 
+                     mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadEvents(Int64 startCounter, Int32 eventCountWanted, 
+                     ReadEventsFlags flags, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadFirstEventCounter()
+                        at Microsoft.Exchange.Search.Engine.NotificationsEventS
+                     ourceInfo..ctor(IWatermarkStorage watermarkStorage, 
+                     INotificationsEventSource eventSource, 
+                     IDiagnosticsSession diagnosticsSession, MdbInfo mdbInfo)
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.DetermineFeederStateAndStartFeeders()
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.InternalExecutionStart()
+                        at Microsoft.Exchange.Search.Core.Common.Executable.Int
+                     ernalExecutionStart(Object state)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Core.Common.Executable.End
+                     Execute(IAsyncResult asyncResult)
+                        at Microsoft.Exchange.Search.Engine.SyncRootController.
+                     ExecuteComplete(IAsyncResult asyncResult)'
+Category           : (1)
+CategoryNumber     : 1
+ReplacementStrings : {Mailbox Database 2061654708, Microsoft.Exchange.Search.Co
+                     re.Abstraction.OperationFailedException: The component 
+                     operation has failed. ---> Microsoft.Exchange.Search.Core.
+                     Abstraction.ComponentFailedPermanentException: Failed to 
+                     read notifications, MDB: 
+                     d00b751d-0d50-41c1-ae08-d41bf28b2b08. ---> 
+                     Microsoft.Mapi.MapiExceptionMdbOffline: 
+                     MapiExceptionMdbOffline: Unable to read events. 
+                     (hr=0x80004005, ec=1142)
+                     Diagnostic context:
+                         Lid: 49384  
+                         Lid: 51176   StoreEc: 0x476     
+                         Lid: 40680   StoreEc: 0x476     
+                         Lid: 43980  
+                         Lid: 16354   StoreEc: 0x476     
+                         Lid: 38985   StoreEc: 0x476     
+                         Lid: 20098  
+                         Lid: 20585   StoreEc: 0x476     
+                        at Microsoft.Mapi.MapiExceptionHelper.InternalThrowIfEr
+                     rorOrWarning(String message, Int32 hresult, Boolean 
+                     allowWarnings, Int32 ec, DiagnosticContext diagCtx, 
+                     Exception innerException)
+                        at 
+                     Microsoft.Mapi.MapiExceptionHelper.ThrowIfError(String 
+                     message, Int32 hresult, IExInterface iUnknown, Exception 
+                     innerException)
+                        at Microsoft.Mapi.MapiEventManager.ReadEvents(Int64 
+                     startCounter, Int32 eventCountWanted, Int32 
+                     eventCountToCheck, Restriction filter, ReadEventsFlags 
+                     flags, Boolean includeSid, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.<>c__DisplayClass3.<ReadEvents>b__1()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass4`1.<TranslateMapiExceptionsWithRetryAndReturnValue>b_
+                     _3()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.<>c__DisplayC
+                     lass7.<TranslateMapiExceptionsWithRetry>b__6()
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     Exceptions(IDiagnosticsSession tracer, LocalizedString 
+                     errorString, Action mapiCall)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetry(IDiagnosticsSession tracer, 
+                     LocalizedString errorString, Action mapiCall, Action 
+                     reconnectAction, MdbHealthTracker mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.MapiUtil.TranslateMapi
+                     ExceptionsWithRetryAndReturnValue[TReturnValue](IDiagnosti
+                     csSession tracer, LocalizedString errorString, Func`1 
+                     mapiCall, Action reconnectAction, MdbHealthTracker 
+                     mdbHealthTracker)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadEvents(Int64 startCounter, Int32 eventCountWanted, 
+                     ReadEventsFlags flags, Int64& endCounter)
+                        at Microsoft.Exchange.Search.Mdb.NotificationsEventSour
+                     ce.ReadFirstEventCounter()
+                        at Microsoft.Exchange.Search.Engine.NotificationsEventS
+                     ourceInfo..ctor(IWatermarkStorage watermarkStorage, 
+                     INotificationsEventSource eventSource, 
+                     IDiagnosticsSession diagnosticsSession, MdbInfo mdbInfo)
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.DetermineFeederStateAndStartFeeders()
+                        at Microsoft.Exchange.Search.Engine.SearchFeedingContro
+                     ller.InternalExecutionStart()
+                        at Microsoft.Exchange.Search.Core.Common.Executable.Int
+                     ernalExecutionStart(Object state)
+                        --- End of inner exception stack trace ---
+                        at Microsoft.Exchange.Search.Core.Common.Executable.End
+                     Execute(IAsyncResult asyncResult)
+                        at Microsoft.Exchange.Search.Engine.SyncRootController.
+                     ExecuteComplete(IAsyncResult asyncResult)}
+Source             : MSExchangeFastSearch
+TimeGenerated      : 11/15/2017 4:06:22 PM
+TimeWritten        : 11/15/2017 4:06:22 PM
+UserName           :

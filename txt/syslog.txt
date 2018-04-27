@@ -1,0 +1,598 @@
+
+
+Index              : 104692
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     HOST/SRVDAG2016.duoc.cl. This indicates that the target 
+                     server failed to decrypt the ticket provided by the 
+                     client. This can occur when the target server principal 
+                     name (SPN) is registered on an account other than the 
+                     account the target service is using. Ensure that the 
+                     target SPN is only registered on the account used by the 
+                     server. This error can also happen if the target service 
+                     account password is different than what is configured on 
+                     the Kerberos Key Distribution Center for that target 
+                     service. Ensure that the service on the server and the 
+                     KDC are both configured to use the same password. If the 
+                     server name is not fully qualified, and the target domain 
+                     (DUOC.CL) is different from the client domain (DUOC.CL), 
+                     check if there are identically named server accounts in 
+                     these two domains, or use the fully-qualified name to 
+                     identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, HOST/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 3:28:59 PM
+TimeWritten        : 11/15/2017 3:28:59 PM
+UserName           : 
+
+Index              : 104691
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl. This indicates 
+                     that the target server failed to decrypt the ticket 
+                     provided by the client. This can occur when the target 
+                     server principal name (SPN) is registered on an account 
+                     other than the account the target service is using. 
+                     Ensure that the target SPN is only registered on the 
+                     account used by the server. This error can also happen if 
+                     the target service account password is different than 
+                     what is configured on the Kerberos Key Distribution 
+                     Center for that target service. Ensure that the service 
+                     on the server and the KDC are both configured to use the 
+                     same password. If the server name is not fully qualified, 
+                     and the target domain (DUOC.CL) is different from the 
+                     client domain (DUOC.CL), check if there are identically 
+                     named server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 3:28:59 PM
+TimeWritten        : 11/15/2017 3:28:59 PM
+UserName           : 
+
+Index              : 104690
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016. This indicates that 
+                     the target server failed to decrypt the ticket provided 
+                     by the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 3:28:59 PM
+TimeWritten        : 11/15/2017 3:28:59 PM
+UserName           : 
+
+Index              : 104689
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL. This 
+                     indicates that the target server failed to decrypt the 
+                     ticket provided by the client. This can occur when the 
+                     target server principal name (SPN) is registered on an 
+                     account other than the account the target service is 
+                     using. Ensure that the target SPN is only registered on 
+                     the account used by the server. This error can also 
+                     happen if the target service account password is 
+                     different than what is configured on the Kerberos Key 
+                     Distribution Center for that target service. Ensure that 
+                     the service on the server and the KDC are both configured 
+                     to use the same password. If the server name is not fully 
+                     qualified, and the target domain (DUOC.CL) is different 
+                     from the client domain (DUOC.CL), check if there are 
+                     identically named server accounts in these two domains, 
+                     or use the fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 3:28:53 PM
+TimeWritten        : 11/15/2017 3:28:53 PM
+UserName           : 
+
+Index              : 104688
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 3:27:28 PM
+TimeWritten        : 11/15/2017 3:27:28 PM
+UserName           : 
+
+Index              : 104631
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 2:27:19 PM
+TimeWritten        : 11/15/2017 2:27:19 PM
+UserName           : 
+
+Index              : 104599
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     HOST/SRVDAG2016.duoc.cl. This indicates that the target 
+                     server failed to decrypt the ticket provided by the 
+                     client. This can occur when the target server principal 
+                     name (SPN) is registered on an account other than the 
+                     account the target service is using. Ensure that the 
+                     target SPN is only registered on the account used by the 
+                     server. This error can also happen if the target service 
+                     account password is different than what is configured on 
+                     the Kerberos Key Distribution Center for that target 
+                     service. Ensure that the service on the server and the 
+                     KDC are both configured to use the same password. If the 
+                     server name is not fully qualified, and the target domain 
+                     (DUOC.CL) is different from the client domain (DUOC.CL), 
+                     check if there are identically named server accounts in 
+                     these two domains, or use the fully-qualified name to 
+                     identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, HOST/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 1:29:15 PM
+TimeWritten        : 11/15/2017 1:29:15 PM
+UserName           : 
+
+Index              : 104598
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl. This indicates 
+                     that the target server failed to decrypt the ticket 
+                     provided by the client. This can occur when the target 
+                     server principal name (SPN) is registered on an account 
+                     other than the account the target service is using. 
+                     Ensure that the target SPN is only registered on the 
+                     account used by the server. This error can also happen if 
+                     the target service account password is different than 
+                     what is configured on the Kerberos Key Distribution 
+                     Center for that target service. Ensure that the service 
+                     on the server and the KDC are both configured to use the 
+                     same password. If the server name is not fully qualified, 
+                     and the target domain (DUOC.CL) is different from the 
+                     client domain (DUOC.CL), check if there are identically 
+                     named server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 1:29:14 PM
+TimeWritten        : 11/15/2017 1:29:14 PM
+UserName           : 
+
+Index              : 104597
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016. This indicates that 
+                     the target server failed to decrypt the ticket provided 
+                     by the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 1:29:14 PM
+TimeWritten        : 11/15/2017 1:29:14 PM
+UserName           : 
+
+Index              : 104596
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL. This 
+                     indicates that the target server failed to decrypt the 
+                     ticket provided by the client. This can occur when the 
+                     target server principal name (SPN) is registered on an 
+                     account other than the account the target service is 
+                     using. Ensure that the target SPN is only registered on 
+                     the account used by the server. This error can also 
+                     happen if the target service account password is 
+                     different than what is configured on the Kerberos Key 
+                     Distribution Center for that target service. Ensure that 
+                     the service on the server and the KDC are both configured 
+                     to use the same password. If the server name is not fully 
+                     qualified, and the target domain (DUOC.CL) is different 
+                     from the client domain (DUOC.CL), check if there are 
+                     identically named server accounts in these two domains, 
+                     or use the fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 1:28:53 PM
+TimeWritten        : 11/15/2017 1:28:53 PM
+UserName           : 
+
+Index              : 104595
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 1:27:15 PM
+TimeWritten        : 11/15/2017 1:27:15 PM
+UserName           : 
+
+Index              : 104575
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 12:27:08 PM
+TimeWritten        : 11/15/2017 12:27:08 PM
+UserName           : 
+
+Index              : 104541
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     HOST/SRVDAG2016.duoc.cl. This indicates that the target 
+                     server failed to decrypt the ticket provided by the 
+                     client. This can occur when the target server principal 
+                     name (SPN) is registered on an account other than the 
+                     account the target service is using. Ensure that the 
+                     target SPN is only registered on the account used by the 
+                     server. This error can also happen if the target service 
+                     account password is different than what is configured on 
+                     the Kerberos Key Distribution Center for that target 
+                     service. Ensure that the service on the server and the 
+                     KDC are both configured to use the same password. If the 
+                     server name is not fully qualified, and the target domain 
+                     (DUOC.CL) is different from the client domain (DUOC.CL), 
+                     check if there are identically named server accounts in 
+                     these two domains, or use the fully-qualified name to 
+                     identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, HOST/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 11:29:10 AM
+TimeWritten        : 11/15/2017 11:29:10 AM
+UserName           : 
+
+Index              : 104540
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl. This indicates 
+                     that the target server failed to decrypt the ticket 
+                     provided by the client. This can occur when the target 
+                     server principal name (SPN) is registered on an account 
+                     other than the account the target service is using. 
+                     Ensure that the target SPN is only registered on the 
+                     account used by the server. This error can also happen if 
+                     the target service account password is different than 
+                     what is configured on the Kerberos Key Distribution 
+                     Center for that target service. Ensure that the service 
+                     on the server and the KDC are both configured to use the 
+                     same password. If the server name is not fully qualified, 
+                     and the target domain (DUOC.CL) is different from the 
+                     client domain (DUOC.CL), check if there are identically 
+                     named server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016.duoc.cl, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 11:29:10 AM
+TimeWritten        : 11/15/2017 11:29:10 AM
+UserName           : 
+
+Index              : 104539
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server pro-exch-03$. The target name used was 
+                     MSServerClusterMgmtAPI/SRVDAG2016. This indicates that 
+                     the target server failed to decrypt the ticket provided 
+                     by the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {pro-exch-03$, DUOC.CL, 
+                     MSServerClusterMgmtAPI/SRVDAG2016, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 11:29:09 AM
+TimeWritten        : 11/15/2017 11:29:09 AM
+UserName           : 
+
+Index              : 104538
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 11:26:56 AM
+TimeWritten        : 11/15/2017 11:26:56 AM
+UserName           : 
+
+Index              : 104516
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL. This 
+                     indicates that the target server failed to decrypt the 
+                     ticket provided by the client. This can occur when the 
+                     target server principal name (SPN) is registered on an 
+                     account other than the account the target service is 
+                     using. Ensure that the target SPN is only registered on 
+                     the account used by the server. This error can also 
+                     happen if the target service account password is 
+                     different than what is configured on the Kerberos Key 
+                     Distribution Center for that target service. Ensure that 
+                     the service on the server and the KDC are both configured 
+                     to use the same password. If the server name is not fully 
+                     qualified, and the target domain (DUOC.CL) is different 
+                     from the client domain (DUOC.CL), check if there are 
+                     identically named server accounts in these two domains, 
+                     or use the fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, 
+                     ldap/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 10:35:12 AM
+TimeWritten        : 11/15/2017 10:35:12 AM
+UserName           : 
+
+Index              : 104513
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     LDAP/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL. This 
+                     indicates that the target server failed to decrypt the 
+                     ticket provided by the client. This can occur when the 
+                     target server principal name (SPN) is registered on an 
+                     account other than the account the target service is 
+                     using. Ensure that the target SPN is only registered on 
+                     the account used by the server. This error can also 
+                     happen if the target service account password is 
+                     different than what is configured on the Kerberos Key 
+                     Distribution Center for that target service. Ensure that 
+                     the service on the server and the KDC are both configured 
+                     to use the same password. If the server name is not fully 
+                     qualified, and the target domain (DUOC.CL) is different 
+                     from the client domain (DUOC.CL), check if there are 
+                     identically named server accounts in these two domains, 
+                     or use the fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, 
+                     LDAP/DC-ADMPRIMARIO.duoc.cl/duoc.cl@DUOC.CL, DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 10:31:49 AM
+TimeWritten        : 11/15/2017 10:31:49 AM
+UserName           : 
+
+Index              : 104510
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     ldap/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, ldap/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 10:26:50 AM
+TimeWritten        : 11/15/2017 10:26:50 AM
+UserName           : 
+
+Index              : 104501
+EntryType          : Error
+InstanceId         : 1073741828
+Message            : The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+                     from the server dc-admprimario$. The target name used was 
+                     cifs/DC-ADMPRIMARIO.duoc.cl. This indicates that the 
+                     target server failed to decrypt the ticket provided by 
+                     the client. This can occur when the target server 
+                     principal name (SPN) is registered on an account other 
+                     than the account the target service is using. Ensure that 
+                     the target SPN is only registered on the account used by 
+                     the server. This error can also happen if the target 
+                     service account password is different than what is 
+                     configured on the Kerberos Key Distribution Center for 
+                     that target service. Ensure that the service on the 
+                     server and the KDC are both configured to use the same 
+                     password. If the server name is not fully qualified, and 
+                     the target domain (DUOC.CL) is different from the client 
+                     domain (DUOC.CL), check if there are identically named 
+                     server accounts in these two domains, or use the 
+                     fully-qualified name to identify the server.
+Category           : (0)
+CategoryNumber     : 0
+ReplacementStrings : {dc-admprimario$, DUOC.CL, cifs/DC-ADMPRIMARIO.duoc.cl, 
+                     DUOC.CL}
+Source             : Kerberos
+TimeGenerated      : 11/15/2017 10:16:12 AM
+TimeWritten        : 11/15/2017 10:16:12 AM
+UserName           :
